@@ -1,0 +1,10 @@
+[
+    {
+        "raster_path": "/home/gbur/Documentos/polygonization-script/raster_og/chickpeagrowout ortho 1.tif",
+        "vector": "/home/gbur/Documentos/polygonization-script/vector-files/chickpea-otho-1-shape.shp"
+    },
+    {
+        "raster_path": "/home/gbur/Documentos/polygonization-script/raster_og/6-06 upper ortho.tif",
+        "vector": "/home/gbur/Documentos/polygonization-script/vector-files/chickpea-upper-new.shp"
+    }
+]
